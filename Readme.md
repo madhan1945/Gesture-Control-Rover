@@ -2,10 +2,6 @@
 
 A gesture-controlled robotic rover designed using an Arduino Nano, MPU6050 accelerometer sensor, and NRF24L01 wireless transceiver modules. The rover’s movement is intuitively controlled through hand gestures, with the accelerometer capturing motion data and transmitting it wirelessly to the rover for real-time navigation.
 
-## Demo
-
-📹 A demo of the working prototype is available [here.](https://drive.google.com/file/d/1kExa4UemsDqYNaJMxgUSocIWllhqYdt6/view)
-
 ## Features
 
 - Wireless communication using NRF24L01
